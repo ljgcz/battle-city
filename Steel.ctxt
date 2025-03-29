@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Steel
+comment0.text=\n\ Write\ a\ description\ of\ class\ Steel\ here.\n\ \n\ Steel,\ nothing\ can\ go\ through\n
+comment1.params=
+comment1.target=Steel()
+comment1.text=\n\ Steel\ Constructor\n\ Sets\ image\ scale\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Steel\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkTouching()
+comment3.text=\n\ Method\ checkTouching\n\ Remove\ bullet\ once\ hit\ on\ steel\ wall\n
+numComments=4

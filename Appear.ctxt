@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Appear
+comment0.text=\n\ Write\ a\ description\ of\ class\ Appear\ here.\n\ \n\ Appear\ animation\ for\ tanks\n
+comment1.params=thing
+comment1.target=Appear(char)
+comment1.text=\n\ Appear\ Constructor\n\n\ @param\ thing\ A\ parameter\n\ \n\ Obtain\ type\ of\ obejct,\ initializes\ iter,\ set\ image\ size\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Appear\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\n\ Method\ animate\n\ Animation\ for\ apppear\ using\ modulus\ and\ setImage\n
+numComments=4

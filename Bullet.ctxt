@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\n\ Write\ a\ description\ of\ class\ Bullet\ here.\n\ \n\ The\ bullet\ which\ player\ and\ enemy\ shots\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\n\ Bullet\ Constructor\n\ Sets\ bullet\ speed,\ sets\ image\ rotation\ and\ scale\n
+comment2.params=rot\ sped\ type
+comment2.target=Bullet(int,\ int,\ boolean)
+comment2.text=\n\ Bullet\ Constructor\n\n\ @param\ rot\ A\ parameter\n\ @param\ sped\ A\ parameter\n\ @param\ type\ A\ parameter\n\ \n\ Obtains\ shooter\ type,\ speed,\ rotation\ degree\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment4.params=
+comment4.target=void\ go()
+comment4.text=\n\ Method\ go\n\ Moves\ the\ bullet\ with\ game\ field\ edge\ checking\n
+comment5.params=
+comment5.target=boolean\ getType()
+comment5.text=\n\ Method\ getType\n\n\ @return\ The\ return\ value\n\ \n\ Accessor\ to\ return\ type\ of\ shooter\n
+comment6.params=
+comment6.target=void\ checkTouching()
+comment6.text=\n\ Method\ checkTouching\n\ Removes\ the\ enemy\ bullet\ if\ a\ player\ bullet\ hits\ an\ enemy\ bullet\n
+numComments=7

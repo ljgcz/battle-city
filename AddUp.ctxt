@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AddUp
+comment0.text=\n\ Write\ a\ description\ of\ class\ AddUp\ here.\n\ \n\ Gives\ the\ tank\ more\ bullet\n
+comment1.params=
+comment1.target=AddUp()
+comment1.text=\n\ AddUp\ Constructor\n\ Initialize\ iter,\ set\ image\ size\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ AddUp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ countDown()
+comment3.text=\n\ Method\ countDown\n\ Displays\ the\ add\ up\ object\ for\ only\ 500\ iterations.\ Remove\ it\ once\ reach\ 500\n
+numComments=4

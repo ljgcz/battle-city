@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ The\ tank\ which\ user\ controls\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\n\ Player\ Constructor\n\ Initialized\ variables,\ set\ image\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=speed
+comment3.target=void\ move(int)
+comment3.text=\n\ Method\ move\n\n\ @param\ speed\ A\ parameter\n\ \n\ Moves\ the\ tank\ based\ on\ arrow\ keys\ and\ ifMove\ booleans\n
+comment4.params=TankX\ TankY
+comment4.target=void\ applyBoundary(int,\ int)
+comment4.text=\n\ Method\ applyBoundary\n\n\ @param\ TankX\ A\ parameter\n\ @param\ TankY\ A\ parameter\n\ \n\ Prevent\ the\ tank\ from\ leaving\ the\ game\ field,\ note\ that\ tank\ width\ and\ height\ need\ to\ be\ considered\n
+comment5.params=
+comment5.target=void\ shoot()
+comment5.text=\n\ Method\ shoot\n\ Shoots\ bullet\ based\ on\ key\ press,\ boolean,\ bullet\ count\n
+comment6.params=brickWidth\ brickLength\ tankWidth\ tankLength
+comment6.target=void\ applyBricks(int,\ int,\ int,\ int)
+comment6.text=\n\ Method\ applyBricks\n\n\ @param\ brickWidth\ A\ parameter\n\ @param\ brickLength\ A\ parameter\n\ @param\ tankWidth\ A\ parameter\n\ @param\ tankLength\ A\ parameter\n\ \n\ Wall\ collision\ checking\ for\ Wall,\ Steel,\ and\ Water\ based\ on\ wall\ size\ and\ tank\ size\n
+comment7.params=
+comment7.target=void\ checkTouching()
+comment7.text=\n\ Method\ checkTouching\n\ Decreases\ life\ if\ bullet\ hit,\ change\ life\ display\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cover
+comment0.text=\n\ Write\ a\ description\ of\ class\ Cover\ here.\n\ \n\ T\n
+comment1.params=
+comment1.target=Cover()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Cover.\n\ Sets\ image\ size\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Method\ act\n\n
+numComments=3

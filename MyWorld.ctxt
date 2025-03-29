@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ The\ world\ class\:\n\ \n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Method\ act\n
+comment3.params=
+comment3.target=void\ constructWalls()
+comment3.text=\n\ Method\ constructWalls\n\ Construct\ the\ map\ of\ the\ game\n
+comment4.params=x\ y\ walL
+comment4.target=void\ fby4Steel(int,\ int,\ int)
+comment4.text=\n\ Method\ fby4Steel\n\n\ @param\ x\ A\ parameter\n\ @param\ y\ A\ parameter\n\ @param\ walL\ A\ parameter\n\ \n\ Forms\ 4\ by\ 4\ block\ from\ four\ steel\ bricks\n
+comment5.params=x\ y\ walL
+comment5.target=void\ fby4Wall(int,\ int,\ int)
+comment5.text=\n\ Method\ fby4Wall\n\n\ @param\ x\ A\ parameter\n\ @param\ y\ A\ parameter\n\ @param\ walL\ A\ parameter\n\ \n\ Forms\ 4\ by\ 4\ block\ from\ four\ wall\ bricks\n
+comment6.params=x\ y\ walL
+comment6.target=void\ fby4Plant(int,\ int,\ int)
+comment6.text=\n\ Method\ fby4Plant\n\n\ @param\ x\ A\ parameter\n\ @param\ y\ A\ parameter\n\ @param\ walL\ A\ parameter\n\ \n\ Forms\ 4\ by\ 4\ block\ from\ four\ plant\ bricks\n
+comment7.params=x\ y\ walL
+comment7.target=void\ fby4Water(int,\ int,\ int)
+comment7.text=\n\ Method\ fby4Water\n\n\ @param\ x\ A\ parameter\n\ @param\ y\ A\ parameter\n\ @param\ walL\ A\ parameter\n\ \n\ Forms\ 4\ by\ 4\ block\ from\ four\ water\ bricks\n
+comment8.params=
+comment8.target=void\ spawnAddUp()
+comment8.text=\n\ Method\ spawnAddUp\n\ Generates\ bullet\ add-up\ on\ random\ location\ near\ bottom\ of\ the\ game\ field\n
+numComments=9

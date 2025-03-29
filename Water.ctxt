@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Water
+comment0.text=\n\ Animating\ water\ that\ tank\ cannot\ cross,\ but\ bullet\ can\n
+comment1.params=
+comment1.target=Water()
+comment1.text=\n\ Water\ Constructor\n\ Initializes\ iter,\ set\ scale\ for\ image\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Water\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ animate()
+comment3.text=\n\ Method\ animate\n\ Animation\ for\ water\ using\ modulus\ and\ setImage\n
+numComments=4
