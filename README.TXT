@@ -9,7 +9,7 @@ June 14, 2023
 
 How to Play:
   1. Clone the repository, for example, to ~/fun-game
-  2. Download and install Greenfoot from https://www.greenfoot.org
+  2. Download and install Greenfoot from https://www.greenfoot.org/download
   3. Launch Greenfoot and open the ~/fun-game directory.
   4. Click on the Start button to begin.
 
