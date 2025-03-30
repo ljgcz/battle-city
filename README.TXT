@@ -7,6 +7,12 @@ LZ
 Date: 
 June 14, 2023
 
+How to Play:
+  1. Clone the repository, for example, to ~/fun-game
+  2. Download and install Greenfoot from https://www.greenfoot.org
+  3. Launch Greenfoot and open the ~/fun-game directory.
+  4. Click on the Start button to begin.
+
 Game Premise:
 Battle City is a multi-directional shooter video game for the Family 
 Computer produced and published in 1985 by Namco. The player controls a 
@@ -15,7 +21,7 @@ The enemy tanks enter from the top of the screen and attempt to destroy
 the player's base. It is especially popular in Asia, where it first
 released.
 
-How to Play:
+Playing Instructions:
     - Enter key: starts the game
     - Up arrow key: move up
     - Down arrow key: move down
