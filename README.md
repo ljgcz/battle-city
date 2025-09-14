@@ -1,8 +1,5 @@
 # Battle City
 
-**Author:** LZ
-**Date:** June 14, 2023
-
 ## Table of Contents
 
 - [About](#about)
@@ -20,14 +17,14 @@
 
 ## How to Play
 
-1. Clone this repository to a local directory, e.g., `~/fun-game`:
+1. Clone this repository:
    ```bash
-   git clone <repository-url> ~/fun-game
+   git clone https://github.com/ljgcz/battle-city.git
    ```
 
 2. Download and install Greenfoot from [https://www.greenfoot.org/download](https://www.greenfoot.org/download).
 
-3. Launch Greenfoot and open the `~/fun-game` directory.
+3. Launch Greenfoot and open the `battle-city` directory.
 
 4. Click the **Start** button to begin the game.
 
