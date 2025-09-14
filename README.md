@@ -1,5 +1,7 @@
 # Battle City
 
+![Battle City Gameplay](demo.gif)
+
 ## Table of Contents
 
 - [About](#about)
